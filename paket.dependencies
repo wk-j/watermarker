@@ -1,0 +1,5 @@
+source https://www.nuget.org/api/v2
+framework:net45
+
+// nuget Magick.NET-Q16-AnyCPU
+nuget Magick.NET-Q8-x64

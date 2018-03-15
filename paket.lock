@@ -1,0 +1,4 @@
+RESTRICTION: == net45
+NUGET
+  remote: https://www.nuget.org/api/v2
+    Magick.NET-Q8-x64 (7.4.3)
